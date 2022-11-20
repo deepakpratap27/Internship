@@ -1,0 +1,3 @@
+For setting Virtual Env in the Directory:
+
+python -m virtualenv -p="C:\Users\deepa\AppData\Local\Programs\Python\Python310\python.Exe" .virtenv

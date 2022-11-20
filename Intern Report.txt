@@ -1,0 +1,80 @@
+Day-0  08/06/2022
+
+Gave the Interview
+
+Precistat
+
+
+Day -1  09/06/2022
+
+Learning to run multiple Environments in python  using different versions ; (Each version has the libraries which are compatible).
+
+Day -2 10/06/2022  =
+
+Creating a program to add User Details for registration ;and retrieve the credentials if already registered.
+Creating the Same Program using JSON.
+
+                                                                                                               Day-3  11/06/2022 (Saturday)
+                                                                                                               Day-4  12/06/2022  (Sunday)
+  
+
+Day-5  13/06/2022 
+
+Completed the program by fixing KeyErrors.
+Learning more about arrays; loops.- Geeks for Geeks.
+Learning the working of the Software VDO intel  -(Manual CCTV Footage Auditing with Priority ;(Category-1,2,3 changes with Client Priority).
+ 
+
+Day-6 14/06/2022  
+
+Learn and practice Real world Applications in python regarding Arrays, Functions , Calls, loops.
+
+
+Day-7 15/06/2022  
+
+Referring to Real world Applications - Artificial Intelligence, Cryptography.
+Practicing the Problems in GFG.
+
+Day -8 16/06/2022  
+
+              Completed Practice Questions in GFG,hackerrank.
+
+
+                                                                                                     Day-9   17/06/2022  (Friday)
+                                                                                                     Day-10   18/06/2022  (Saturday)
+                                                                                                     Day-11  19/06/2022  (Sunday)
+
+Day-12  20/06/2022 
+             Learn and practice Object oriented Programming in Python.
+
+Day-13  21/06/2022
+              Learn and practice Object oriented Programming in Python.
+
+Day-14  22/06/2022
+           Creating a program to take input of user info for registration 
+           storing in json 
+           and retrieving ; Using Classes
+
+
+                                                                                                      Day-15   23/06/2022  (Thursday)
+
+
+Day-16  24/06/2022 - Friday
+             Modifying the program ; fixing key errors
+
+                                                                                                        Day-17 25/06/2022   (Saturday)
+                                                                                                        Day -18 26/06/2022   (Sunday)
+
+Day -19 27/06/2022  - Monday
+                       Modifying the program done ; Using Classes
+
+Day-20  28/06/2022  - Tuesday
+                         Fixing Key errors on previous program/ Reviewed the Cryptographic Algorithms ; usage 
+Day -21  29/06/2022 - Wednesday
+                          Working on a Cryptography Application in python using RSA,Diffie-Hellman Key-Exchange,Hashing.                                                                       
+
+Day -22  30/06/2022   - Thursday
+                          Working on a Cryptography Application in python using RSA,Diffie-Hellman Key-Exchange,Hashing.
+
+Day-23   01/07/2022    - Friday
+        

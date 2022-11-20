@@ -1,0 +1,8 @@
+{
+    "user_info": [
+        "{\"first_name\": \"deepak\", \"last_name\": \"balaji\", \"mobile_number\": \"123456789\", \"email_id\": \"123@123.com\", \"username\": \"deepak1\", \"password\": \"password\"}",
+        "{\"first_name\": \"teja\", \"last_name\": \"p\", \"mobile_number\": \"345678912\", \"email_id\": \"teja@gmail.com\", \"username\": \"teja1\", \"password\": \"12345678\"}",
+        "{\"first_name\": \"nelson\", \"last_name\": \"dayan\", \"mobile_number\": \"2345678901\", \"email_id\": \"nelson@gmail.com\", \"username\": \"nelson1\", \"password\": \"qwerty\"}",
+        "{\"first_name\": \"pratap\", \"last_name\": \"deepak\", \"mobile_number\": \"12345678\", \"email_id\": \"pratap@gmail.com\", \"username\": \"scar1\", \"password\": \"asdfghjkl\"}"
+    ]
+}
